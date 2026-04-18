@@ -2,6 +2,7 @@
   "background_color": "#ffffff",
   "dir": "auto",
   "display": "standalone",
+   "description": "A challenging puzzle game where controls reverse periodically. Navigate through 30 levels of inverted mazes, avoid traps, and reach the exit before time runs out.",
   "name": "Reverse Escape",
   "orientation": "any",
   "scope": "https://glittering-malabi-375d81.netlify.app/",
