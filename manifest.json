@@ -1,0 +1,44 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Reverse Escape",
+  "orientation": "any",
+  "scope": "https://glittering-malabi-375d81.netlify.app/",
+  "short_name": "Reverse Escape",
+  "start_url": "https://glittering-malabi-375d81.netlify.app/",
+  "theme_color": "#ffffff",
+  "id": "010a19ed-baab-452a-a85a-028061314555",
+  "icons": [
+    {
+      "src": "launchericon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "launchericon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "launchericon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
